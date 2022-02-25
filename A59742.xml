@@ -1,0 +1,980 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A survey of the county judicatures commonly called the county court, hundred court, and court baron wherein the nature and use of them, and the way and order of keeping them is opened for the great ease and profit of all such as have occasion to keep, or use them / by William Sheppard.</title>
+            <author>Sheppard, William, d. 1675?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 56 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59742</idno>
+            <idno type="STC">Wing S3213</idno>
+            <idno type="STC">ESTC R29356</idno>
+            <idno type="EEBO-CITATION">11077155</idno>
+            <idno type="OCLC">ocm 11077155</idno>
+            <idno type="VID">46282</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46282)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1431:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A survey of the county judicatures commonly called the county court, hundred court, and court baron wherein the nature and use of them, and the way and order of keeping them is opened for the great ease and profit of all such as have occasion to keep, or use them / by William Sheppard.</title>
+                  <author>Sheppard, William, d. 1675?</author>
+               </titleStmt>
+               <extent>[10], 98, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Daniel and are to be sold by Nathaniel Elkins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes index.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Harvard Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>County courts --  Great Britain.</term>
+               <term>Courts baron and courts leet.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46282:1"/>
+            <pb facs="tcp:46282:1" rendition="simple:additions"/>
+            <p> A SURVEY of the County JUDICATURES, Commonly called the County Court, Hundred Court, and Court Baron. <hi>Wherein the nature and uſe of them, and the way and order of keeping them is opened; for the great eaſe and profit of all ſuch as have occaſion to keep, or uſe them.</hi>
+            </p>
+            <p>By WILLIAM SHEPPARD Eſq.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by R. DANIEL, and are to be ſold by <hi>Nathaniel Ekins,</hi> at the ſigne of the Gun in S. <hi>Pauls</hi> Churchyard. 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:46282:2" rendition="simple:additions"/>
+            <pb facs="tcp:46282:2"/>
+            <head>To the Reader, and all his dear Countrymen.</head>
+            <opener>
+               <salute>My dear Countrymen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hiles I think of my day far ſpent, and my night al<g ref="char:EOLhyphen"/>moſt come, when my Bo<g ref="char:EOLhyphen"/>dy muſt fall aſleep, and my Soul muſt to God my great Maſter, that gave it me, to give an account of my Time which I have had, and Talents
+<pb facs="tcp:46282:3"/> wherewith I have been truſted: I am preſſed to make uſe of the little time is left me to do what ſer<g ref="char:EOLhyphen"/>vice I may for you. And calling to mind the ex<g ref="char:EOLhyphen"/>cellent invention of our Common Law, (<note n="*" place="margin">
+                  <hi>Coo.</hi> 2. part of his inſtitutes, fol. 311.</note> obſer<g ref="char:EOLhyphen"/>ved by an eminent Judge of the Nation) that men ſhould not be troubled for ſuits of ſmall value in the great &amp; remote Courts of the Nation, but that they might be heard and determined in the Coun<g ref="char:EOLhyphen"/>try with ſmall charge, and little or no travel, or
+<pb facs="tcp:46282:3"/> loſſe of time, it ordained <hi>County Iudicatures,</hi> the <hi>County Courts, Hundred Courts,</hi> and <hi>Court Barons;</hi> where all Actions of Debt, of the Caſe, Deti<g ref="char:EOLhyphen"/>nue, Covenant, Treſ<g ref="char:EOLhyphen"/>paſſe, and other perſonall Actions under fourty ſhillings, (which would be now more then twice ſo much) were to have been heard and ended. And (as this Iudge hath it) it was then accounted againſt the dignity and inſtitution of thoſe high Courts, to hold plea of
+<pb facs="tcp:46282:4"/> ſmall or trifling cauſes. <hi>Ne dignitas Curiarum illa<g ref="char:EOLhyphen"/>rum vileſceret, &amp; ne mate<g ref="char:EOLhyphen"/>riam ſuperaret opus.</hi> And looking upon our pre<g ref="char:EOLhyphen"/>ſent State, that (as it is generally conceived) a third part of the many thouſand actions now de<g ref="char:EOLhyphen"/>pending in <hi>Weſtminſter</hi> Hall, are ſuch trifling a<g ref="char:EOLhyphen"/>ctions, that might be end<g ref="char:EOLhyphen"/>ed in the Country Iudica<g ref="char:EOLhyphen"/>tures, were theſe Courts duely regulated. So that the Law that was inſtitu<g ref="char:EOLhyphen"/>ted for the quiet and de<g ref="char:EOLhyphen"/>fence of man, is now by
+<pb facs="tcp:46282:4"/> corruption abuſed to his vexation, charge, and of<g ref="char:EOLhyphen"/>fence. I cannot but ſay woe and alas, that we are ſo miſerably fallen and degenerated. And taking notice further that there is at this time upon the ſpirit of our preſent Au<g ref="char:EOLhyphen"/>thority, a deep ſenſe of this and ſome other evils and preſſures upon this Nation; with a reſoluti<g ref="char:EOLhyphen"/>on, as farre, and as faſt as it can, to cure them, if we our ſelves do not obſtruct it. Theſe, and ſome o<g ref="char:EOLhyphen"/>ther ſuch like conſidera<g ref="char:EOLhyphen"/>tions
+<pb facs="tcp:46282:5"/> as theſe, have put me on the reſolution to ſend this rude draught a<g ref="char:EOLhyphen"/>mongſt you: that thereby I may perhaps provoke thoſe that are concern<g ref="char:EOLhyphen"/>ed, and have power in it to endeavour the regula<g ref="char:EOLhyphen"/>tion and reducement of this County Iudicature again to its pure and pri<g ref="char:EOLhyphen"/>mitive inſtitution. And that they that are im<g ref="char:EOLhyphen"/>ployed in the keeping of theſe Courts, may the better know how to keep them; and they for whom they are kept, the better
+<pb facs="tcp:46282:5"/> know what to require of, and expect from them that keep them; I have adventured to ſend this little piece more amongſt you. And now if I can but have your good will and good word for all this, it ſhall ſuffice to</p>
+            <closer>
+               <signed>Your dear Countryman <hi>W.</hi> S.</signed>
+            </closer>
+            <pb facs="tcp:46282:6"/>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:46282:6"/>
+            <head>CHAP. I. <hi>Of the County Court.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He <hi>County Court</hi> is a <note place="margin">What the County Court is.</note> Court, not of Re<g ref="char:EOLhyphen"/>cord, incident to the Sheriffs office, for the hearing and determining of petty matters between party and party within the County; wherein the Sheriff is onely a Regiſter or Recorder and the Freeholders of the County are Judges. The ſtile of this Court is GLOUC. The firſt Court of <hi>E. C.</hi> Eſquire Sheriff of the County aforeſaid held at <hi>Glou<g ref="char:EOLhyphen"/>ceſter</hi>
+               <pb n="2" facs="tcp:46282:7"/> the firſt day of <hi>May,</hi> 1655. And the next Court, The ſe<g ref="char:EOLhyphen"/>cond Court, &amp;c.</p>
+            <div n="1" type="section">
+               <head>Sect. I. <hi>Of the nature of this Court.</hi>
+               </head>
+               <p>THe office of the Sheriff <note place="margin">The She<g ref="char:EOLhyphen"/>riffs of<g ref="char:EOLhyphen"/>fice.</note> hath this Court incident and belonging to it; and not to be ſevered nor granted away from it. Nay the Lord Prote<g ref="char:EOLhyphen"/>ctour by his Letters pattents cannot grant away the office of the Clark of the County Court, nor the fees <hi>&amp;c.</hi> thereto be<g ref="char:EOLhyphen"/>longing; and if whilſt the of<g ref="char:EOLhyphen"/>fice or place of the Sheriff re<g ref="char:EOLhyphen"/>maines void, the Lord Prote<g ref="char:EOLhyphen"/>ctour (by his Letters Patents un<g ref="char:EOLhyphen"/>der the Great Seal) ſhall grant away the ſaid office of the Clark
+<pb n="3" facs="tcp:46282:7"/> of the County, (or Shire Clark of the County) or ſhall appoint any to occupy or uſe the ſame, yet when the Lord Protectour ſhall afterwards make one She<g ref="char:EOLhyphen"/>riff, he ſhall avoid that grant: for that the County Court, and the entring of all the proceedings therein are incident to the office of the Sheriff; &amp; the Sheriff is to appoint ſuch Clarks under him
+<note place="margin">Sheriffs Clark.</note> in his County Court, for whom he will anſwer at his perill.</p>
+            </div>
+            <div n="2" type="section">
+               <head>Sect. II. <hi>Of the time of keeping this Court.</hi>
+               </head>
+               <p>THeſe County Courts muſt <note place="margin">The County Court to be kept monthly.</note> be holden and kept from moneth to moneth: and muſt be no longer deferred, but one
+<pb n="4" facs="tcp:46282:8"/> moneth from Court to Court, and ſo theſe Courts are to be kept every moneth, upon a day certain, and no otherwiſe: and the moneths to be reckoned by eight and twenty dayes and not by the Kalender; and ſo with<g ref="char:EOLhyphen"/>in the twelve Shires of Wales, their Sheriffs muſt keep their Counties monethly.</p>
+               <p>The neceſſity of keeping this <note place="margin">The rea<g ref="char:EOLhyphen"/>ſon of the keeping this Court monthly.</note> Court every moneth and upon a day certain, is by reaſon of the Lord Protectors writs of <hi>Exi<g ref="char:EOLhyphen"/>gents</hi> which muſt be read there.</p>
+            </div>
+            <div n="3" type="section">
+               <head>Sect. III. <hi>Of the place of keeping this Court.</hi>
+               </head>
+               <p>AS to the place wherein theſe Courts are to be
+<pb n="5" facs="tcp:46282:8"/> kept theſe things are to be known.</p>
+               <p>Firſt, The Sheriff of Nor<g ref="char:EOLhyphen"/>thumberland <note place="margin">Sheriff of Northum.</note> (by the ſtatute made <hi>Anno</hi> 2. <hi>Ed.</hi> 6. Chapter 25.) is to keep the County Court of that Shire in the Town or Caſtle of Alnewick, and in none other place.</p>
+               <p>Secondly, The Sheriff of Suſ<g ref="char:EOLhyphen"/>ſex <note place="margin">Sheriff of Suſſex.</note> (by the ſtatute made <hi>Anno</hi> 19. <hi>Hen.</hi> 7. chap. 24.) is to keep and hold the Shire Court for that Shire, one time at Chiche<g ref="char:EOLhyphen"/>ſter, and the other time at the Borough of Lewes, and ſo to be kept by turn for ever: and e<g ref="char:EOLhyphen"/>very Shire Court holden there to the contrary, and all things done therein ſhall be void.</p>
+               <p>Thirdly, The Sheriff of the <note place="margin">Sheriff of Cheſter.</note> County of Cheſter, is to keep his Shire Court in the Shire<g ref="char:EOLhyphen"/>hall
+<pb n="6" facs="tcp:46282:9"/> of the ſaid County.</p>
+               <p>Fourthly, The Sheriffs Shire <note place="margin">Sheriffs of Wales.</note> Courts in Wales of the County of Brecknock, ſhall be holden at Brecknock; of Radnor, at new Radnor and Preſtene; of Montgomery at Montgomery, and Maghenleth; of Denby, at Wrixham; and of Monmouth at Monmouth, and Newport; by turn, one after another.</p>
+               <p>Fifthly, For the County of Glouc. it may be kept in the ci<g ref="char:EOLhyphen"/>ty of Glouc. This Court may be kept in other Counties, in a<g ref="char:EOLhyphen"/>ny place of the County where<g ref="char:EOLhyphen"/>ſoever the Sheriff and Free<g ref="char:EOLhyphen"/>holders pleaſe.</p>
+            </div>
+            <div n="4" type="section">
+               <head>Sect. IIII. <hi>Of the Iudges of this Court.</hi>
+               </head>
+               <p>AS to the Judges of theſe Courts; theſe things are to be known.</p>
+               <pb n="7" facs="tcp:46282:9"/>
+               <p> Firſt, In this Court, (which is of the nature of a Court Ba<g ref="char:EOLhyphen"/>ron) not the Sheriff nor the Steward, but as to all actions and proceedings by a <hi>Iuſticies</hi> or other <hi>writ,</hi> as alſo in other Suits which are there by plaint without writ, the Freeholders
+<note place="margin">Freehold<g ref="char:EOLhyphen"/>ers or ſui<g ref="char:EOLhyphen"/>tors to be Judges.</note> of the County or Suitors are Iudges there; But as to Out<g ref="char:EOLhyphen"/>lawries the Coroners only are Iudges. and the Sheriff, Stew<g ref="char:EOLhyphen"/>ard, and Bayliffs are miniſters: and therefore the Sheriff can do no <hi>act</hi> there without the aſſent of the Suitors, and if he do, an Action of the Caſe lieth againſt <note place="margin">Action of the Caſe againſt the She<g ref="char:EOLhyphen"/>riff. Falſe Judge<g ref="char:EOLhyphen"/>ment.</note> him, not a writ of falſe Judge<g ref="char:EOLhyphen"/>ment as it doth againſt the Sui<g ref="char:EOLhyphen"/>tors, if they give a falſe Judge<g ref="char:EOLhyphen"/>ment: and thereupon they are to be amerced, whether the Suit be upon a <hi>Iuſticies</hi> or not.</p>
+               <pb n="8" facs="tcp:46282:10"/>
+               <p> Secondly, There muſt be two Freeholders at the leaſt, or elſe the Court cannot be held.</p>
+               <p>Thirdly, In ſome ſpeciall writ, (now out of uſe) the She<g ref="char:EOLhyphen"/>riff is Judge there.</p>
+               <p>Fourthly, If the Freehold<g ref="char:EOLhyphen"/>ers do not appear, they may be <note place="margin">Affering.</note> amearced, the amearcement affeared, extreated and levy<g ref="char:EOLhyphen"/>ed, but it muſt be done by two Freeholders at the leaſt, and may not be done by the She<g ref="char:EOLhyphen"/>riffs without Freeholders.</p>
+            </div>
+            <div n="5" type="section">
+               <head>Sect. V. <hi>Of the Povver and Proceed<g ref="char:EOLhyphen"/>ings of this Court in Ge<g ref="char:EOLhyphen"/>nerall.</hi>
+               </head>
+               <p>THe power in Generall of this Court is either <hi>ex offi<g ref="char:EOLhyphen"/>cio,</hi> and of it ſelf, or by commiſ<g ref="char:EOLhyphen"/>ſion
+<pb n="9" facs="tcp:46282:10"/> called a <hi>Iuſticies,</hi> and in <note place="margin">Juſticies.</note> both caſes the Freeholders, not the Sheriffs, are Judges of this Court: and they may by their own authority hold plea of, hear and determine all leſſer a<g ref="char:EOLhyphen"/>ctions; as actions of debt, treſ<g ref="char:EOLhyphen"/>paſſe, covenant, detinue, ac<g ref="char:EOLhyphen"/>count, and the like; and in ca<g ref="char:EOLhyphen"/>ſes of Replevin, where the debt or damage is not forty ſhil<g ref="char:EOLhyphen"/>lings, or upwards, and no free<g ref="char:EOLhyphen"/>hold is in queſtion, and by a <hi>Iuſticies</hi> they may hold plea of, hear and determine, all actions of what value ſoever; and not<g ref="char:EOLhyphen"/>withſtanding the freehold it ſelf being in queſtion. And this not onely between perſons and parties living within the County where the defendant lives, but alſo between perſons living elſewhere out of the
+<pb n="10" facs="tcp:46282:11"/> County; for any cauſe or con<g ref="char:EOLhyphen"/>tract enſuing within the Coun<g ref="char:EOLhyphen"/>ty, or any tranſitory things.</p>
+               <p>In all which caſes their pro<g ref="char:EOLhyphen"/>ceeding is much after the exam<g ref="char:EOLhyphen"/>ple of the higher Courts; by entring of Plaints by the plain<g ref="char:EOLhyphen"/>tiff himſelf, or his Attorney, putting in of pledges, filing de<g ref="char:EOLhyphen"/>clarations. And if the Defen<g ref="char:EOLhyphen"/>dant appear not by proceſſe of ſummons, attachment, and di<g ref="char:EOLhyphen"/>ſtreſſe, upon attachment infi<g ref="char:EOLhyphen"/>nite, till he do appear; which when he doth, he is to plead, and ſo to the triall of the cauſe: which is commonly by wa<g ref="char:EOLhyphen"/>ger of law, but by conſent of the parties it may be by Jeu<g ref="char:EOLhyphen"/>ry: as it may be alſo where the uſe of the Court is ſo. And if judgement be given againſt the defendant, the execution is by
+<pb n="11" facs="tcp:46282:11"/> diſtreſſe, a warrant is ſent from the Judges to the Bailiff to ſeiſe the defendants goods, put them in pound, or ſell them, and bring the money in Court for the Plaintiff, as the cuſtome and courſe of the Court is. And if the Court give judgement, or do any thing contrary to Law, the party grieved thereby muſt have his remedy by a writ of falſe judgement. And Exe<g ref="char:EOLhyphen"/>cutors and Adminiſtrators may ſue and be ſued here, as in other Courts.</p>
+               <p>But we ſhall open theſe things more particularly in the things that follow.</p>
+            </div>
+            <div n="6" type="section">
+               <pb n="12" facs="tcp:46282:12"/>
+               <head>Sect. VI. <hi>Of a Iuſticies.</hi>
+               </head>
+               <p>A <hi>Iusticies</hi> is a writ in the nature of a commiſſion, directed to the Sheriff for the diſpatch of juſtice in his Coun<g ref="char:EOLhyphen"/>ty Court, in ſome eſpeciall ca<g ref="char:EOLhyphen"/>ſes, wherein of his own autho<g ref="char:EOLhyphen"/>rity he cannot deal. And as to this part theſe things are to be known.</p>
+               <p>Firſt, That albeit the writ doth lie in divers caſes, yet at this day it is very rarely uſed in any caſe, but in an action of debt, or ſome ſuch like action, of, or above forty ſhillings; in which caſe, the Sheriff hath not power in this Court without this commiſſion.</p>
+               <pb n="13" facs="tcp:46282:12"/>
+               <p> Secondly, That albeit the writ be directed to the Sheriff, yet are the Suitors the Judges, and their proceedings alike in this as in other actions. And yet in this it is a County record; and ſo it is not in the proceed<g ref="char:EOLhyphen"/>ings of all the reſt.</p>
+               <p>Thirdly, The Sheriff upon this writ may not make a pre<g ref="char:EOLhyphen"/>cept to a Bayliff of a Franchiſe to have his cognizance of the cauſe; nor may any other but the Sheriff and the high Sheriff (as it is held) himſelf hold plea upon this writ.</p>
+               <p>Fourthly, A ſuit here upon <note place="margin">Remove.</note> this writ is removeable, as ano<g ref="char:EOLhyphen"/>ther ſuit is, that is without it.</p>
+               <p>Fifthly, The Sheriff is not bound to make any return of this writ.</p>
+            </div>
+            <div n="7" type="section">
+               <pb n="14" facs="tcp:46282:13"/>
+               <head>Sect. VII. <hi>Of an Attorney and Pledges.</hi>
+               </head>
+               <p>ANy man may make a ge<g ref="char:EOLhyphen"/>nerall <note place="margin">Attornees</note> Attorney to ſue for, or againſt him in all pleas in this Court. And for pledges <note place="margin">pledges.</note> which are ſuch as do undertake for the Plaint, that they ſhould proſecute the ſuit, and ſtand to the judgement of the Court, there ought to be ſuch in this, as in other Courts, of ſufficient men of the county: but this it ſeems is out of uſe, and not ne<g ref="char:EOLhyphen"/>ceſſary at this day.</p>
+            </div>
+            <div n="8" type="section">
+               <head>Sect. VIII. <hi>Of a Plaint.</hi>
+               </head>
+               <p>THe Plaint is the firſt entry of the perſons <hi>to</hi> and
+<pb n="15" facs="tcp:46282:13"/> cauſe of the action in the Court, upon which all the reſt of the proceedings are ground<g ref="char:EOLhyphen"/>ed, and is thus: A. B. com<g ref="char:EOLhyphen"/>plains of C. D. in a plea of debt of ten ſhillings, and ſo as the caſe is. And as to this, theſe things are to be known.</p>
+               <p>Firſt. No Plaint ought to be entred (except in caſe of Re<g ref="char:EOLhyphen"/>plevins) out of Court, but in full County, and ſitting of the Court. And yet the courſe is otherwiſe, and (as it ſeems) good enough.</p>
+               <p>Secondly. The Sheriff or his County Clark, or any other, by either of their commandments, or in their names, may not en<g ref="char:EOLhyphen"/>ter any plaint in any mans name, unleſſe the Plaintiff be preſent in Court, in perſon, or elſe by his Attorney or deputy,
+<pb n="16" facs="tcp:46282:14"/> and yet this it ſeems is good e<g ref="char:EOLhyphen"/>nough, though otherwiſe en<g ref="char:EOLhyphen"/>tred, but for this cauſe, it may be removed, if it be ſet forth <note place="margin">Remove.</note> and moved in another Court.</p>
+               <p>Thirdly, Nor may any man enter a plaint in the name of a dead man, of purpoſe to get money of the Defendant.</p>
+               <p>Fourthly, Nor may any of the Officers of the Court enter or cauſe to be entred, any more plaints then the plaintiffe hath cauſe, and deſireth againſt the defendant.</p>
+               <p>Fifthly, There muſt be but one plaint for one contract, tre<g ref="char:EOLhyphen"/>ſpaſſe, or cauſe.</p>
+               <p>Sixthly, The plaint that is for treſpaſſe, may not be <hi>vi &amp; armis:</hi> for then a prohibition <note place="margin">Prohibi<g ref="char:EOLhyphen"/>tion.</note> may be had to ſtay the ſuit, but leaving out theſe words, it may
+<pb n="17" facs="tcp:46282:14"/> be brought there for a treſpaſſe,</p>
+               <p>Seventhly, No plaint can be heard in this Court for charters touching Inheritance or Free<g ref="char:EOLhyphen"/>hold.</p>
+               <p>Eighthly, No plaint or ſuit can be entred here for debt, or damages to forty ſhillings or upwards, &amp;c. unleſſe it be upon a Juſticies. But under forty ſhil<g ref="char:EOLhyphen"/>lings it may be for any action of debt, either upon an account made by the parties, or upon an eſpeciallity, or for wages after a hire, or upon a lending, or up<g ref="char:EOLhyphen"/>on an arbitrement, or the like: and for a detinue, and for acti<g ref="char:EOLhyphen"/>ons of the caſe upon a delivery, or upon a warranty, or upon a Misfeſans, or upon a Nonfe<g ref="char:EOLhyphen"/>ſans, Nuſans, or the like.</p>
+               <p>Ninthly, And upon a Reple<g ref="char:EOLhyphen"/>vin <note place="margin">Replevin.</note> for damage feſant, amearce<g ref="char:EOLhyphen"/>ment,
+<pb n="18" facs="tcp:46282:15"/> rent, or the like: and up<g ref="char:EOLhyphen"/>on all actions of treſpaſſe; for breaking of a houſe, taking a<g ref="char:EOLhyphen"/>way goods, or the like. And if the debt or damage be forty ſhillings, or upwards, the de<g ref="char:EOLhyphen"/>fendant may demurre to the <note place="margin">Demur<g ref="char:EOLhyphen"/>rer.</note> juriſdiction of the Court, or have a prohibition. And yet <note place="margin">Prohibi<g ref="char:EOLhyphen"/>tion.</note> it is a queſtion whether theſe Courts may not hold plea ſo much now, as forty ſhillings was then, which is about ſix pound, but it is not ſafe to ad<g ref="char:EOLhyphen"/>venture. And it is held clear, That if the declaration be laid for, or above forty ſhillings, albeit the Jury find the da<g ref="char:EOLhyphen"/>mage under forty ſhillings, this will not help.</p>
+               <p>Tenthly, If the debt be a<g ref="char:EOLhyphen"/>bove forty ſhillings, as for ex<g ref="char:EOLhyphen"/>ample, twenty pound, the
+<pb n="19" facs="tcp:46282:15"/> Plaintiff cannot divide this in<g ref="char:EOLhyphen"/>to twenty ſeverall actions to make this Court hold plea of it. for in this caſe the defendant may wage his law with good conſcience, or have a Prohi<g ref="char:EOLhyphen"/>bition.</p>
+               <p>Eleventhly, But if the debt be above forty ſhillings, and the plaintiff will acknowledge in his plaint the receipt of ſo much as to bring it within for<g ref="char:EOLhyphen"/>ty ſhillings, in this caſe perhaps the plaint may be good. This plaint muſt be continued from Court to Court, or elſe may be diſmiſſed, and the Plaintiff will be forced to begin again.</p>
+               <p>Twelfthly, If the Sheriff or any of his officers ſhall procure others to enter plaints or ſuits in this Court againſt other men, they may be puniſhed for
+<pb n="20" facs="tcp:46282:16"/> it by a ſpeciall Act of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div n="9" type="section">
+               <head>Sect. IX. <hi>Of the Proceſſe of the Court.</hi>
+               </head>
+               <p>THe Proceſſe of the Court <note place="margin">Proceſſe.</note> is the precepts that iſſue out in the actions, and theſe are either originall, which are ſuch as iſſue out before judge<g ref="char:EOLhyphen"/>ment; or judiciall, ſuch as iſſue out after judgement. Thoſe which we call originall, are the ſummons, and the attachment, and diſtreſſe; both which (up<g ref="char:EOLhyphen"/>on the matter are all one.) The <hi>venire facias,</hi> the <hi>Alias</hi> and <hi>Plu<g ref="char:EOLhyphen"/>res,</hi> and <hi>diſtringas</hi> or <hi>diſtreſſe.</hi>
+               </p>
+               <p>The ſummons is a warrant <note place="margin">Summons</note> to an officer, to warn the defen<g ref="char:EOLhyphen"/>dant in the action to appear to it. And is after this form.</p>
+               <pb n="21" facs="tcp:46282:16"/>
+               <p> The Bailiff of the hun<g ref="char:EOLhyphen"/>dred of <hi>S.</hi> is commanded to ſummon <hi>C. D.</hi> that he be here at the next Court, to anſwer <hi>A. B.</hi> in a plea of debt, (or in a plea of treſpaſſe, or in a plea of detinue, as the caſe is,) or more largely after this form.</p>
+               <p>
+                  <hi>R.</hi> S. Eſquire, Sheriff of <note place="margin">Gloue.</note> the County aforeſaid, to the Bailiff of the Hun<g ref="char:EOLhyphen"/>dred of <hi>W.</hi> greeting. For<g ref="char:EOLhyphen"/>aſmuch as <hi>A. B.</hi> at my County Court held for the County aforeſaid,
+<pb n="22" facs="tcp:46282:17"/> complains againſt C. <hi>D.</hi> in a plea of debt of thir<g ref="char:EOLhyphen"/>ty ſhillings, (or in a plea of treſpaſſe, as the cauſe is,) and hath found pledg<g ref="char:EOLhyphen"/>es to proſecute, <hi>&amp;c.</hi> Theſe are therefore to re<g ref="char:EOLhyphen"/>quire that you ſummon the ſaid C. <hi>D.</hi> that he be here at the next Court; to anſwer the ſaid <hi>A. B.</hi> in the foreſaid Plea: and that you have there this warrant, and ſhew how you have executed it. Dated the eighth day of <hi>Auguſt,</hi> 1655.</p>
+               <pb n="23" facs="tcp:46282:17"/>
+               <p> Attachment is the ſecond de<g ref="char:EOLhyphen"/>gree <note place="margin">Attach<g ref="char:EOLhyphen"/>ment.</note> of Proces, and iſſueth out where the defendant commeth not in upon the Summons; and this is to take the defendants goods, and keep them, to the end he may appear; and is made Briefely after this forme. It is commanded the Baylife of the hundred of S. That he attach C. D. by all his goods and chat<g ref="char:EOLhyphen"/>tels to the end that he may be at the next Court to anſwer A. B. in a plea of debt, &amp;c. or more largely as before in the other.</p>
+               <p>And in this caſe, the Sheriffe may chooſe to take away the goods, or leave them with the defendant, (which he will,) and if the defendant appear not, by this at the day of the returne of the Attachment he ſhall forfeit them, but the property thereof
+<pb n="24" facs="tcp:46282:18"/> by the taking is not out of him, till he hath made default, ſo that if he appear or be eſſoyned, the goods are not to be forfeit.</p>
+               <p>The diſtreſſe is the third de<g ref="char:EOLhyphen"/>gree <note place="margin">Diſtreſſe.</note> of Proces, or a third Pro<g ref="char:EOLhyphen"/>ces; and it is a warrant to the Bayliff to deſtrayne the defen<g ref="char:EOLhyphen"/>dant by his goods and chattels, to the end that he may be at the next Court to anſwer A. B. (as the cauſe is) or largely as be<g ref="char:EOLhyphen"/>fore. And the <hi>alias</hi> and <hi>pluries</hi> doth not differ from theſe but hath theſe words added. It is commanded the Bayliff, &amp;c. as an <hi>alias</hi> (or as a <hi>pluries)</hi> the <hi>ve<g ref="char:EOLhyphen"/>nire facias</hi> is a precept to ſum<g ref="char:EOLhyphen"/>mon a Iury to appear to try the caſe; and it is after this forme. It is commanded the Bayliff, &amp;c. or</p>
+               <div type="subsection">
+                  <pb n="25" facs="tcp:46282:18"/>
+                  <head>To the Bayliff of the hundred of S.</head>
+                  <p>Theſe are to require you the ſaid Bayliff, to cauſe to come, twelve good and lawfull men of your Bayliwicke that they be here at the next Court to try an iſſue joyned between A. B. Plaintiff, and C. D. defendant, touching a plea of debt (or as the caſe is) and if the full Jury do not appear, then as many as make default and be not eſ<g ref="char:EOLhyphen"/>ſoyned <note place="margin">Amerce<g ref="char:EOLhyphen"/>ment.</note> ſhall be amerced.</p>
+                  <p>And a <hi>Decem Tales</hi> awarded to ſummon ten more, and the ſame day given to the firſt Jury after this forme. It is com<g ref="char:EOLhyphen"/>manded, &amp;c. That he cauſe to come tenne ſuch good and Lawfull men of his Bayliwicke, &amp;c. as in the laſt. At which day
+<pb n="26" facs="tcp:46282:19"/> as many as make default and be not eſſoyned ſhall be amerced and then an <hi>Octo tales.</hi> And af<g ref="char:EOLhyphen"/>fer that if needs be a <hi>Sex tales.</hi> Till a full Jury appear.</p>
+                  <p>The judiciall Proces in this Court, is only the <hi>Levari facias</hi> which is a precept to the Bay<g ref="char:EOLhyphen"/>liff <note place="margin">Execu<g ref="char:EOLhyphen"/>tion.</note> to levie the debt or damage recovered, and the coſts of ſuits, of the goods and chattels of the defendant, and is after this forme.</p>
+                  <p>It is commanded to the Bayliff of S. That he cauſe to be levied of the goods and cattels of C. D. twenty ſhillings which A. B. hath recovered a<g ref="char:EOLhyphen"/>gainſt him in this Court
+<pb n="27" facs="tcp:46282:19"/> in a plea of debt, for a plea of treſpaſſe as the caſe is) and for his coſts and expence in the ſuit twelve pence. And that he have the ſame mony at the next Court, or thus largely.</p>
+                  <p>R. S. Eſq. Sheriff of the <note place="margin">Glouc.</note> ſaid County whereas A. B. at my County Court held for the ſaid County hath recovered againſt C. D. twenty ſhillings in a plaint of debt and twelve pence for his coſts of ſuit, whereof the ſaid C. D. is in the ſame Court con<g ref="char:EOLhyphen"/>vict
+<pb n="28" facs="tcp:46282:20"/> by the judgement of the Court.</p>
+                  <p>Theſe are therefore to command you according to the cuſtome of the ſaid Court, the ſaid twenty ſhillings adjudged by the ſaid Court and the ſaid twelve pence for coſts that you cauſe to be le<g ref="char:EOLhyphen"/>vied, and that you have the ſame mony at the next Court to anſwer the ſame to the ſaid A. B. and that you have there alſo this precept, &amp;c. And this precept is given where the defendant is
+<pb n="29" facs="tcp:46282:20"/> condemned by default, verdict, or otherwiſe, to levie the debt or dama<g ref="char:EOLhyphen"/>ges of the goods of the de<g ref="char:EOLhyphen"/>fendant, which being ta<g ref="char:EOLhyphen"/>ken are to be priſed and ſould to ſatisfie the Plain<g ref="char:EOLhyphen"/>tiff: but the goods in this caſe may not be deliver<g ref="char:EOLhyphen"/>ed over to the Plaintiff himſelf;</p>
+                  <p>And as to all theſe Proceſſe <note place="margin">Officers.</note> and the execution thereof theſe things are to be known.</p>
+                  <p>Firſt, that the Bailiffs or o<g ref="char:EOLhyphen"/>ther officers of the Court upon theſe Proceſſe or precepts muſt take care duly to execute them; and to make return
+<pb n="30" facs="tcp:46282:21"/> what they doe upon them.</p>
+                  <p>Secondly, they may upon theſe Proceſſe, take any mans goods or cattell in any place in the County upon his own or another mans ground.</p>
+                  <p>Thirdly, they may enter into any houſe or cloſe, if the door be open, to do execution of the goods of the partie the goods being there.</p>
+                  <p>Fourthly, if any default be in the Bailiff, or other officer, in <note place="margin">Amerce<g ref="char:EOLhyphen"/>ment.</note> the execution of his precept, or making return of it when it is executed, or the like, he may be amerced for it by the Court. And in ſome caſes the partie grieved by it may have his a<g ref="char:EOLhyphen"/>ction of the caſe againſt him.</p>
+                  <p>Fiftly, the goods they ſeize <note place="margin">Attach<g ref="char:EOLhyphen"/>ment.</note> or take muſt be reaſonable and not exceſſive.</p>
+                  <pb n="31" facs="tcp:46282:21"/>
+                  <p> Sixthly, after Proceſſe by Attachments or diſtreſſes, once
+<note place="margin">Or di<g ref="char:EOLhyphen"/>ſtreſſes.</note> granted the Sheriff <hi>ex officio</hi> may grant new Proceſſe of the ſame nature. And ſo after judge<g ref="char:EOLhyphen"/>ment entred he may grant out execution of courſe, if the Court do not ſtay it. But other<g ref="char:EOLhyphen"/>wiſe theſe officers are not to doe any thing without the Benchers, except in caſe of ne<g ref="char:EOLhyphen"/>ceſſity, as granting of <hi>Replevins;</hi>
+                     <note place="margin">Reple<g ref="char:EOLhyphen"/>vins.</note> this is done of courſe.</p>
+               </div>
+            </div>
+            <div n="10" type="section">
+               <pb n="32" facs="tcp:46282:22"/>
+               <head>Sect. X. <hi>Of the proceedings from the time of the defendants being ſummoned, or at<g ref="char:EOLhyphen"/>tached, to the end of the Suit.</hi>
+               </head>
+               <p>THe proceedings in theſe caſes is much after the faſhion of the proceedings in the higher Courts, as in theſe particulars that follow.</p>
+               <p>Firſt, when the defendant is to come in, ſometimes he may <note place="margin">Eſſoyne.</note> be excuſed by an Eſſoyne; for the defendant when he cannot appear at the time appointed by the Court; for reaſonable cauſe, he ſhall have a further day, and his default ſhall be ſa<g ref="char:EOLhyphen"/>ved,
+<pb n="33" facs="tcp:46282:22"/> and as to this eſſoyne theſe things are to be known.</p>
+               <p>1. That the ordinary cauſes for which this is allowed are.</p>
+               <p n="1">1. That either the defen<g ref="char:EOLhyphen"/>dant is in the ſervice of the Lord Protector, or is beyond the ſea, or is ſick, or the water is ſo high that he cannot come, or the like.</p>
+               <p n="2">2. He that caſteth an eſſoyne ought to come at the begin<g ref="char:EOLhyphen"/>ning of the Court, when Pro<g ref="char:EOLhyphen"/>clamation is made.</p>
+               <p n="3">3. If one be eſſoyned one Court the other may be eſſoyn<g ref="char:EOLhyphen"/>ed the next Court.</p>
+               <p n="4">4. No eſſoyne is to be al<g ref="char:EOLhyphen"/>lowed by either partie without cauſe ſhewed, which may be without oath.</p>
+               <p n="5">5. No eſſoyne is to be al<g ref="char:EOLhyphen"/>lowed
+<pb n="34" facs="tcp:46282:23"/> in theſe caſes following.</p>
+               <list>
+                  <item>1. Where the partie himſelf is ſeen in Court.</item>
+                  <item>2. Where the partie hath an attorney in the ſame plea pre<g ref="char:EOLhyphen"/>ſent in Court.</item>
+                  <item>3. Where the partie made default at the laſt Court before.</item>
+                  <item>4. Where the partie doth come in by diſtreſſe.</item>
+               </list>
+               <p>Secondly, where the defen<g ref="char:EOLhyphen"/>dant <note place="margin">Declara<g ref="char:EOLhyphen"/>tion.</note> doth appear the Plaintiff muſt ſee his Declaration be filed, or the Plaintiff may be nonſuit otherwiſe, unleſſe the Court give further day to him: alſo he muſt ſee to it that it be made perfect or the defendant <note place="margin">Demur<g ref="char:EOLhyphen"/>rer.</note> may demurre to it, and put the Plaintiff to make a new Decla<g ref="char:EOLhyphen"/>ration, and yet before the de<g ref="char:EOLhyphen"/>fendant have anſwered the <note place="margin">Amend<g ref="char:EOLhyphen"/>ment.</note> Plaintiff may by order of the
+<pb n="35" facs="tcp:46282:23"/> Court have any thing amended that is amiſſe in the Declara<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Thirdly, the defendant when <note place="margin">Impar<g ref="char:EOLhyphen"/>lance.</note> he appears and the Declaration is filed, ſhall of courſe have an <hi>Imparlance</hi> for one Court, (that is) upon his deſire he ſhall have further day given him to an<g ref="char:EOLhyphen"/>ſwer till the next Court, and this by order of the Court, or agreement of the parties may be again continued to another Court.</p>
+               <p>Fourthly, continuances muſt <note place="margin">Conti<g ref="char:EOLhyphen"/>nuances.</note> be made of caſes in this Court from Court to Court, as they are in the Courts at Weſt<g ref="char:EOLhyphen"/>minſter from terme to terme, to keep the ſuits in being.</p>
+               <p>Fifthly, the defendant after a perfect Declaration put in; muſt <note place="margin">Pleading.</note> give his anſwer or plead to it,
+<pb n="36" facs="tcp:46282:24"/> and for this, theſe things are to be known.</p>
+               <p>1. He muſt plead in the time appointed by the rules of the Court, otherwiſe judgement will be given againſt him for his default, by <hi>nihil dicit</hi> 1. becauſe he ſaith nothing.</p>
+               <p>2. His plea muſt be legall, full and perfect; or elſe it will be to the advantage of the Plaintiff, for a bad or inſuffi<g ref="char:EOLhyphen"/>cient plea is in Law as no plea.</p>
+               <p>Sixthly, the ordinary pleas here to action of debt are as in the Courts at Weſtminſter: (as the caſe is;) as for example if the ſuit be on a deed. It is not his deed; that it was made by threatning or impriſonment. That he tendred the mony at the day, and is ſtill ready to pay
+<pb n="37" facs="tcp:46282:24"/> it. A releaſe or acquitance by deed, and ſuch like.</p>
+               <p>Or if it be on a Contract without a deed, payment, or obligation made for the debt, an arbitrement, &amp;c.</p>
+               <p>That he doth not owe the mony, and ſuch like. And if the ſuit be againſt an executor, or adminiſtrator, the ordinary plea is, that he was never exe<g ref="char:EOLhyphen"/>cutor, or that he hath fully ad<g ref="char:EOLhyphen"/>miniſtred, or the like. Or if the ſuit be grounded on a deed, or on a Contract without a deed, that he was within age when he did make the deed or Con<g ref="char:EOLhyphen"/>tract, or if it be againſt a woman; that ſhe was covert (1.) had a husband when ſhe made the deed or Contract or ſuch like.</p>
+               <p>If the ſuit be grounded on an arbitrement, that there was
+<pb n="38" facs="tcp:46282:25"/> no arbitrement Legally made, or that he hath performed the award.</p>
+               <p>If it be on a Replevin for treſpaſſe by damage feſant; that the beaſts came in by the de<g ref="char:EOLhyphen"/>fault of the incloſure of the Plaintiff; or that he hath title of common there, or the like.</p>
+               <p>And if it be on a diſtreſſe for rent; That there is no rent be<g ref="char:EOLhyphen"/>hind, or the like.</p>
+               <p>If it be on an action of de<g ref="char:EOLhyphen"/>tinue the ordinary pleas are. That he doth not deteine the thing ſued for, a releaſe, or a guift to him by the Plaintiff of the thing ſued for, or that he did tender the thing ſued for before the action brought, or that he is ready to deliver the thing, and hath brought it in Court; or that the Plaintiff did
+<pb n="39" facs="tcp:46282:25"/> deliver it to him as a pledge for twenty ſhillings, which he hath not paid; or that the thing ſued for was delivered to him by the Plaintiff and another, and not by the Plaintiff alone. And ſuch like.</p>
+               <p>Or if it be an Action of the <note place="margin">Action of the caſe upon an aſſumpſit.</note> Caſe upon an aſſumpſit, the or<g ref="char:EOLhyphen"/>dinary pleas are, that he did not ſo aſſume, or that he is not guilty, a concord performed, or the like.</p>
+               <p>Or if it be in an other Action of the Caſe, the ordinary plea is, not guilty: and if it be on a war<g ref="char:EOLhyphen"/>ranty, that he did not warrant, &amp;c.</p>
+               <p>And if it be in an Action of <note place="margin">Action of treſpaſſe.</note> treſpaſſe, the ordinary plea is not guilty; alſo in this caſe an arbitrement, or concord with execution, tender of amends,
+<pb n="40" facs="tcp:46282:26"/> before the action brought, may be pleaded.</p>
+               <p>And in all theſe actions, ſpe<g ref="char:EOLhyphen"/>ciall pleas may alſo be pleaded (as the caſe is.)</p>
+               <p>But if the defendant plead <note place="margin">Frehold or forrein plea.</note> his freeheld, or forrein plea not triable there; the Court can no further proceed, and if it doth, the other partie may have a writ of falſe judgement, to a<g ref="char:EOLhyphen"/>void the judgement when it is <note place="margin">Falſe judge<g ref="char:EOLhyphen"/>ment.</note> given.</p>
+               <p>But in all theſe caſes, the de<g ref="char:EOLhyphen"/>fendant may if he will, refuſe to plead any ſuch plea, and confeſſe the action; or let judgement go by, <hi>Non ſum informatus,</hi> de<g ref="char:EOLhyphen"/>faults, by the ſaying of his attor<g ref="char:EOLhyphen"/>ney that he is not informed.</p>
+               <p>But upon theſe pleas, the <note place="margin">Triall. Iſſue.</note> Plaintiff in moſt caſes, may take iſſue, and put it to a Jury, which
+<pb n="41" facs="tcp:46282:26"/> is thereupon warned: whereby the Court of any of theſe Courts, Trialls are by Juries, to <note place="margin">By Jury.</note> appear to try it. And theſe ap<g ref="char:EOLhyphen"/>pearing, the parties are to have their Challenges, as in other <note place="margin">Chal<g ref="char:EOLhyphen"/>lenge.</note> Courts. Or by conſent of par<g ref="char:EOLhyphen"/>ties, it ſeems it may be tryed by Jury in any caſe.</p>
+               <p>And upon ſome of theſe pleas, pleaded by the defendant, <note place="margin">Wager of Law.</note> where wager of Law doth lye, as upon an action of debt brought upon a contract by word without writing, or detinue, he may offer to wage his Law, and may have it for the triall, and cannot be put up<g ref="char:EOLhyphen"/>on another way of triall. And this is the proper and ordinary way of triall, appointed by Law in all actions in this Court. And where this is admitted, the
+<pb n="42" facs="tcp:46282:27"/> Court doth appoint the defen<g ref="char:EOLhyphen"/>dant to do it at the next Court; and ſet down with how many hands, or other men witneſſes, he ſhall wage his Law, which is taken by the Judges of the Court, who do examine the defendant and his witneſſes, on oath: and the Plaintiff alſo, if they think fit.</p>
+               <p>Or the defendant (if he will) <note place="margin">By wit<g ref="char:EOLhyphen"/>neſſes.</note> may deny the debt, where it is with out a deed, and put it on the Plaintiffs proof, and then he muſt prove it by witneſſes at the next Court, if it be ſo or<g ref="char:EOLhyphen"/>dered; and if he do then make default herein, he is to be non<g ref="char:EOLhyphen"/>ſuit. So if the Plaintiff in perſon be in Court, (where the Jury
+<note place="margin">Non ſuit.</note> is ready to appear, or give their verdict) and renounce his ſuit or withdraw his action, &amp; ſaith
+<pb n="43" facs="tcp:46282:27"/> he will follow it no more; or when the parties have demur<g ref="char:EOLhyphen"/>red in judgement, and have a day given over, and at the day the Plaintiff do not appear, but make default, in theſe caſes <note place="margin">Nonſuit.</note> the Plaintiff ſhall be nonſuit; and judgement ſhall be given againſt him for coſts of ſuit. Which ſhall be levied in the ſame manner as money reco<g ref="char:EOLhyphen"/>vered againſt a defendant is le<g ref="char:EOLhyphen"/>vied.</p>
+               <p>And in all theſe caſes, if the Judges where it is to be judged by them alone, or the Iudge &amp; Iury (where there is a Iury) ſhall find for the Plaintiff, they muſt give judgement for the debt, or damage and coſts of ſuit, as the <note place="margin">Judge<g ref="char:EOLhyphen"/>ment.</note> caſe is; and if they find for the avowant in a Replevin, they <note place="margin">Coſts.</note> muſt give damage and coſts of
+<pb n="44" facs="tcp:46282:28"/> ſuit: or otherwiſe, if it go a<g ref="char:EOLhyphen"/>gainſt the Plaintiff, or he be non-ſuit for not proceeding, judge<g ref="char:EOLhyphen"/>ment muſt go againſt him, for ſuch coſts of ſuit for vexation: So that as the Court ſhall ad<g ref="char:EOLhyphen"/>judge, if the defendant be con<g ref="char:EOLhyphen"/>demned by default or verdict, a levarie is to go forth to levie the debt or damage, and coſts of ſuit; and ſo if coſts be reco<g ref="char:EOLhyphen"/>vered againſt the Plaintiff, and hereupon execution ſhall be done accordingly by a <hi>Levari facias,</hi> or warrant appointed to leavie the mony. And upon this, the Sheriffs officers, or ſer<g ref="char:EOLhyphen"/>vants appointed, are to levie ſo much of the goods of the Plaintiff or defendant, the which they are to take, priſe, and ſell, and therewith pay the party that doth recover his
+<pb n="45" facs="tcp:46282:28"/> money, and the coſts of ſuit, and give back the overplus. But nei<g ref="char:EOLhyphen"/>ther can the under officers, nor the Sheriff, nor the Court, de<g ref="char:EOLhyphen"/>liver over, or cauſe to be deli<g ref="char:EOLhyphen"/>vered over the goods di<g ref="char:EOLhyphen"/>ſtrayned, to the party that is to have the money.</p>
+            </div>
+            <div n="11" type="section">
+               <head>Sect. XI. <hi>Of a ſuit by Replevin, and the proceedings therein, from the beginning to the end of it.</hi>
+               </head>
+               <p>A Replevin is where one <note place="margin">What a Replevin is.</note> man diſtraineth anothers goods or cattell: then the partie that is diſtrained, upon giving ſecurity to the Sheriff, or his de<g ref="char:EOLhyphen"/>pulie, that he will purſue the
+<pb n="46" facs="tcp:46282:29"/> action, and return the beaſts again, if the taking ſhall be ad<g ref="char:EOLhyphen"/>judged Lawfull; may have this by writ to the Sheriff, or the She<g ref="char:EOLhyphen"/>riff may do it <hi>ex officio:</hi> or if it be within a franchiſe, the She<g ref="char:EOLhyphen"/>riff may ſend his warrant to the Bayliff of the franchiſe; and hereby he ſhall have the goods or cattels reſtored again. As touching this, theſe things are to be known.</p>
+               <p>Firſt, that he that brings this writ muſt have either a gene<g ref="char:EOLhyphen"/>rall <note place="margin">Speciall property.</note> or a ſpeciall property in the thing; as of goods pledged, or the like; and this muſt be in him at the time of the taking, or o<g ref="char:EOLhyphen"/>therwiſe he cannot have, or not maintain the Replevin for them.</p>
+               <p>Secondly, if divers mens cattell be taken they may not
+<pb n="47" facs="tcp:46282:29"/> joyn in a Replevin, but muſt have ſeverall Replevins.</p>
+               <p>Thirdly, this is grantable in hundred Courts and Courts Barons alſo.</p>
+               <p>Fourthly, the Sheriff is bound to have four deputies in the County, to make theſe Reple<g ref="char:EOLhyphen"/>vins; and the Sheriff upon com<g ref="char:EOLhyphen"/>plaint of goods or cattels taken and wrongfully withheld, may ſend his warrant by word or writing (if it be out of a liberty) to whom he pleaſeth to deliver them; and if it be in a franchiſe, he muſt firſt ſend to the Bayliff of the franchiſe, to do it, which if he will not do, the Sheriff himſelf at the laſt may do it.</p>
+               <p>Fifthly, this the Sheriff doth and may do, either <hi>ex officio</hi> by vertue of his office, and of his own authority; or by a writ ſent
+<pb n="48" facs="tcp:46282:30"/> to him out of another Court to give him command ſo to do.</p>
+               <p>Sixthly, the party that ſueth it out (be it with or without a writ) muſt firſt before he can have it, or the diſtreſſes be deli<g ref="char:EOLhyphen"/>vered, enter his plaint in the Court, of the which to the end that deliverance may be made preſently by a Replevin, before a Court day he may enter at any time out of Court for the taking of the things; and give a band of forty pound at the leaſt to proſecute the ſuit, and make return of the goods, if return be awarded by the Court; and if the Sheriff do otherwiſe, the party grieved may have an action of the caſe againſt
+<note place="margin">Action of the caſe.</note> him, and recover his damage by it.</p>
+               <pb n="49" facs="tcp:46282:30"/>
+               <p> Seventhly, if the things diſtrayned, be put by him that did diſtrayn them, in a place where the Sheriff cannot come at them to make a Replevin, as a Caſtle, or the like; he may take the power of the County, and after demand, beat down the Caſtle to take them, and the owner of the goods ſhall reco<g ref="char:EOLhyphen"/>ver double for his loſſe, what ever it be. And if the goods be put in a Caſtle, or driven into another County, or other place where he cannot deliver them upon the Replevin, or <hi>Retorno Habendo;</hi> he may grant a pre<g ref="char:EOLhyphen"/>cept in the nature of a <hi>Wither<g ref="char:EOLhyphen"/>nam,</hi> to whom he will, to take <note place="margin">Wither<g ref="char:EOLhyphen"/>nam.</note> the parties own goods. Or if the Sheriff command the Bay<g ref="char:EOLhyphen"/>liff of the franchiſe to make de<g ref="char:EOLhyphen"/>liverance, and he return that
+<pb n="50" facs="tcp:46282:31"/> he cannot come at them; the Sheriff at the next County Court may enquire of it by in<g ref="char:EOLhyphen"/>queſt of office; and if he find it true, he may of his own autho<g ref="char:EOLhyphen"/>rity grant a precept in the na<g ref="char:EOLhyphen"/>ture of a <hi>Withernam</hi> to the Bay<g ref="char:EOLhyphen"/>liff to take the parties own goods. The which goods the Sheriff or Bayliff may either keep, or deliver to the Plaintiff to keep, at his choice. But the defendant is to pay for the keeping of them, before he have them again.</p>
+               <p>And if the Sheriff coming to make a Replevin, and the party that hath the diſtreſſe, clayme propriety in the goods for himſelf, or for himſelf and another, of his Ma<g ref="char:EOLhyphen"/>ſter; the Sheriff cannot pro<g ref="char:EOLhyphen"/>ceed till this queſtion be
+<pb n="51" facs="tcp:46282:31"/> decided by a <hi>Proprietate Pro<g ref="char:EOLhyphen"/>banda.</hi> 
+                  <note place="margin">Proprie<g ref="char:EOLhyphen"/>tate pro<g ref="char:EOLhyphen"/>banda.</note>
+               </p>
+               <p>Which is a writ lying where the Sheriff is coming to make a Replevin by writ, or without, before or after <hi>Gager de delive<g ref="char:EOLhyphen"/>rance;</hi> and the party that hath the goods, and diſtrayneth them, claymeth them for him<g ref="char:EOLhyphen"/>ſelf, or his Maſter for whom he deſtrayned, as their own; then the Sheriff can proceed no fur<g ref="char:EOLhyphen"/>ther in the Replevin, untill the Playntiff have ſued out this writ, which if the writ were had out of the upper Bench, or common pleas, may be had thence; elſe out of the Chance<g ref="char:EOLhyphen"/>ry; and thereby the Sheriff may try the property, and if he have no property that pretended it, then the Sheriff may go on in the Replevin.</p>
+               <pb n="52" facs="tcp:46282:32"/>
+               <p> If he had, he muſt ſurceaſe; for in all caſes of Replevin, the Plaintiff ought to have the ge<g ref="char:EOLhyphen"/>nerall or ſpeciall property of the goods, at the time of the ta<g ref="char:EOLhyphen"/>king. For a Replevin lyeth up<g ref="char:EOLhyphen"/>on either property. It is there<g ref="char:EOLhyphen"/>fore a good plea in a Replevin, that the property is to the Plaintiff and a ſtranger: but this finding of the Sheriff by this writ, is but an inqueſt of office; and therefore if it be thereby found againſt the Plaintiff, yet may he have a writ of Reple<g ref="char:EOLhyphen"/>vin to the Sheriff; and if he re<g ref="char:EOLhyphen"/>tain the clayme of property, &amp;c. yet ſhall it proceed in the Court of common pleas, where the property ſhall be put in iſ<g ref="char:EOLhyphen"/>ſue and finally tried.</p>
+               <p>But a man cannot clayme property by his Bayliff or ſer<g ref="char:EOLhyphen"/>vant;
+<pb n="53" facs="tcp:46282:32"/> becauſe if it be found a<g ref="char:EOLhyphen"/>gainſt him, he ſhall be fined that ſo doth; which the Lord cannot be, unleſſe he clayme himſelf.</p>
+               <p>Eighthly, this ſuit, after it is once brought into the Court, and the defendant, which is the party that took the diſtreſſe, doth appear, is to be deter<g ref="char:EOLhyphen"/>mined in this Court. But ac<g ref="char:EOLhyphen"/>cording to the plea miniſtred by that party, it becomes reall or perſonall.</p>
+               <p>For where there is property claymed, it is perſonall. But if the defendant juſtifie the ta<g ref="char:EOLhyphen"/>king, as in his freehold, or for ſervices, or rent behind, or the defendant avow for damage fe<g ref="char:EOLhyphen"/>ſant, and the Playntiff juſtifie by reaſon of common of pa<g ref="char:EOLhyphen"/>ſture, then it is reall. And then
+<pb n="54" facs="tcp:46282:33"/> there can be no further pro<g ref="char:EOLhyphen"/>ceeding there except it be up<g ref="char:EOLhyphen"/>on a juſticies, but the caſe muſt be removed by a writ of <hi>recor<g ref="char:EOLhyphen"/>dare,</hi> which muſt be read and allowed in the Court; That the Plaintiff in the Replevin may have notice of the Court wherein it is removed; and of the day, that he do then appear, and declare there againſt the taker, or elſe he will have a <hi>re<g ref="char:EOLhyphen"/>turno habendo.</hi>
+               </p>
+               <p>And then is the defendant to make his Avowrie, and ſet forth by what right, or for what cauſe, he took the cattels.</p>
+               <p>Tenthly, for an Avowrie is <note place="margin">Avowrie.</note> where one doth eſtrayne an<g ref="char:EOLhyphen"/>other for rent, or other cauſe, and the party eſtrayned ſueth a Replevin, againſt the taker, then he muſt juſtifie and avow
+<pb n="55" facs="tcp:46282:33"/> in his plea, the lawfull taking of them: and ſhew why he took them, whether in his own right, or a ſervant, or Bayliff to an<g ref="char:EOLhyphen"/>other. And upon this, the Plain<g ref="char:EOLhyphen"/>tiff doth uſually joyne iſſue; and ſo they go to tryall commonly by a Jury.</p>
+               <p>Eleventhly, if after the Re<g ref="char:EOLhyphen"/>plevin brought, the Plaintiff (whoſe goods be taken) do make default, or be non ſuited, before declaration, or the like; or judgement be given againſt him; he that diſtrayned the beaſts ſhall have them deliver<g ref="char:EOLhyphen"/>ed to him again by the writ of <hi>Returno habendo.</hi> 
+                  <note place="margin">Returno habendo.</note>
+               </p>
+               <p>And this writ muſt have this clauſe inferted in it. That the Sheriff ſhall not deliver the goods without writ, wherein mention ſhall be made of the judgement.</p>
+               <pb n="56" facs="tcp:46282:34"/>
+               <p> And hereupon the Plaintiff if he will may have a judiciall writ to the Sheriff, to deliver the beaſts to him.</p>
+               <p>Twelfthly, where a plaint is <note place="margin">Second delive<g ref="char:EOLhyphen"/>rance.</note> removed out of the County Court, or Court Baron by <hi>Pone</hi> or <hi>Recordare,</hi> into the common Bench, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> after the Plaintiff in the Replevin is nonſuited be<g ref="char:EOLhyphen"/>fore any Avowrie made; not<g ref="char:EOLhyphen"/>withſtanding this nonſuit, the party that diſtrayned, may have again the ſame diſtreſſe, and no other by this writ; which is on<g ref="char:EOLhyphen"/>ly to revive the firſt ſuit, and the defendant cannot have a re<g ref="char:EOLhyphen"/>caption in this caſe, for a dou<g ref="char:EOLhyphen"/>ble diſtreſſe: And this is called ſecond deliverance; after which had, and tryall thereupon, or that the Plaintiff be again non<g ref="char:EOLhyphen"/>ſuited before declaration: Re<g ref="char:EOLhyphen"/>turn
+<pb n="57" facs="tcp:46282:34"/> 
+                  <hi>Irrepreviſable,</hi> ſhall be a<g ref="char:EOLhyphen"/>warded <note place="margin">Return irreprevi<g ref="char:EOLhyphen"/>ſable.</note> to the avowant; &amp; then he may make his attorney to the intent to ground a writ to enquire of damages: or he may hold the beaſts as a diſtreſſe, till he be ſatisfied, and if any <hi>retur<g ref="char:EOLhyphen"/>no habendo</hi> go forth before this writ, this is a <hi>ſuperſedeas</hi> to it; and the Sheriff may not meddle upon it.</p>
+               <p>1. If after one return award<g ref="char:EOLhyphen"/>ed, a return ſhall be another time awarded, there ſhall be no more Replevins granted. And if upon this default the ſecond time, or otherwiſe the defen<g ref="char:EOLhyphen"/>dant be adjudged to have a new return, the diſtreſſe ſhall remain <note place="margin">Return ir<g ref="char:EOLhyphen"/>replegia<g ref="char:EOLhyphen"/>ble.</note> 
+                  <hi>Irreplegiable.</hi>
+               </p>
+               <p>Where one hath ſued a Re<g ref="char:EOLhyphen"/>plevin, <note place="margin">Gager de delive<g ref="char:EOLhyphen"/>rance.</note> and yet hath not the goods delivered, and the other
+<pb n="58" facs="tcp:46282:35"/> avoweth; now he may ſhew this in pleading that the defen<g ref="char:EOLhyphen"/>dant is ſtill poſſeſſed of the goods, &amp; pray that he may put in pledges for the deliverance; which when they come to iſ<g ref="char:EOLhyphen"/>ſue, or demurrer ſhall be grant<g ref="char:EOLhyphen"/>ed him, or after avowrie, if the defendant do not clayme pro<g ref="char:EOLhyphen"/>priety in them: and then a writ ſhall go to the Sheriff to deliver them; but where the avowant doth clay me propriety in them, this is not grantable.</p>
+               <p>It is a writ lying where a man is diſtrayned for any ſervices: <note place="margin">Recap<g ref="char:EOLhyphen"/>tion.</note> and having that ſuit, he is di<g ref="char:EOLhyphen"/>ſtrayned again for the ſame cauſe though the diſtreſs be for ſervice due, after the firſt di<g ref="char:EOLhyphen"/>ſtreſſe, yet it lyeth not till the firſt ſuit be determined.</p>
+            </div>
+            <div n="12" type="section">
+               <pb n="59" facs="tcp:46282:35"/>
+               <head>Sect. XII. <hi>Of coſts of ſuits recoverable in this Court.</hi>
+               </head>
+               <p>AS to the coſts of ſuits recoverable in this Court. Theſe things are to be known.</p>
+               <p>Firſt, in all ſuits whe<g ref="char:EOLhyphen"/>ther judgement be given for Plaintiff or defendant, ſuch reaſonable coſts of ſuit are to be given as the Court ſhall ſet down.</p>
+               <p>Secondly, where the Plaintiff doth not pro<g ref="char:EOLhyphen"/>ceed,
+<pb n="60" facs="tcp:46282:36"/> or the cauſe doth go againſt him upon the triall, the Court muſt give the defendant reaſo<g ref="char:EOLhyphen"/>nable coſts for the unjuſt vexation.</p>
+               <p>Thirdly, ſuch remedy and execution ſhall be made for recovering of theſe coſts, as the Plain<g ref="char:EOLhyphen"/>tiff hath for recovering of the coſts he doth re<g ref="char:EOLhyphen"/>cover in that Court, a<g ref="char:EOLhyphen"/>gainſt the defendant.</p>
+            </div>
+            <div n="13" type="section">
+               <pb n="61" facs="tcp:46282:36"/>
+               <head>Sect. XIII. <hi>Of Amercements in this Court, and the ſtreats thereof.</hi>
+               </head>
+               <p>ANd to this, theſe things are to be known.</p>
+               <p>1. The Court may a<g ref="char:EOLhyphen"/>merce any man, for any contempt or diſturbance of the Court, made in the preſence of the Court; for in what caſe a man may be fined in a Leet, he may be amerced here, and this it ſeems need not be
+<pb n="62" facs="tcp:46282:37"/> affered, as all others, but <note place="margin">Affere<g ref="char:EOLhyphen"/>ment.</note> it is ſafe to do it.</p>
+               <p>And when any officer doth commit any default, or neglect in the execu<g ref="char:EOLhyphen"/>tion of his office; and when the Plaintiff is non-ſuit; <hi>Quia non eſt proſecutus.</hi> Becauſe he hath not pro<g ref="char:EOLhyphen"/>ſecuted, either at the firſt or after, when the Jury is ready to give verdict; or the Court give judge<g ref="char:EOLhyphen"/>ment, or <hi>pro falſo clamore.</hi> And when judgement is given againſt the defen<g ref="char:EOLhyphen"/>dant he may be amerced. And when any Bencher
+<pb n="63" facs="tcp:46282:37"/> Iuror, Plaintiff or defen<g ref="char:EOLhyphen"/>dant doth make default, he may be amerced: ſo alſo every man for his de<g ref="char:EOLhyphen"/>fault of appearance after ſummons may be amer<g ref="char:EOLhyphen"/>ced. But all theſe amer<g ref="char:EOLhyphen"/>cements upon officers for their miſcarriage muſt be <note place="margin">Affere<g ref="char:EOLhyphen"/>ment.</note> affered by the Benchers; the reſt by them or ſome others otherwiſe they may not be extreated, &amp; they may be levied by <note place="margin">Eſtreates.</note> diſtreſſe, and putting in pound; not by ſale with<g ref="char:EOLhyphen"/>out a ſpeciall cuſtome in it; and being levied ſhall
+<pb n="64" facs="tcp:46282:38"/> go to the uſe of the She<g ref="char:EOLhyphen"/>riff. And the Sheriff muſt ſee that he leavie none of theſe amercements, untill they be firſt allowed by two Iuſtices of the Peace.</p>
+            </div>
+            <div n="14" type="section">
+               <head>Sect. XIV. <hi>Of removing of ſuits out of this Court.</hi>
+               </head>
+               <p>SUits may be removed out of this into a higher Court. And this is to be done either by a <hi>recordare,</hi> or by a <hi>pone.</hi> And <note place="margin">Recor<g ref="char:EOLhyphen"/>dare.</note> therefore the <hi>recordare</hi> is ſaid to be a writ out of the upper Bench, or common pleas, di<g ref="char:EOLhyphen"/>rected to the Sheriff, com<g ref="char:EOLhyphen"/>manding
+<pb n="65" facs="tcp:46282:38"/> him to ſend a plaint that is before him without writ in his County Court into that Court, from whence the <hi>recor<g ref="char:EOLhyphen"/>dare</hi> is ſent, to the end that the caſe may be there determined. And this the Sheriff muſt certi<g ref="char:EOLhyphen"/>fie under his ſeal, and the ſeal of four of the Suitors of the ſame Court; and he is to ſummon the other party to be in that Court whether the plaint is to be ſent by a day; and a <hi>pone</hi> doth <note place="margin">Pone.</note> nothing differ from this, but that that is to remove ſuch ſuits as are there before the Sheriff by writ and not by plaint, and as to this theſe things are to be known. 1. That if theſe be ſued out by the Plaintiff in the County Court, it may be had without ſhewing any cauſe at all, if it be had by the defen<g ref="char:EOLhyphen"/>dants
+<pb n="66" facs="tcp:46282:39"/> ſuit, he muſt ſhew cauſe.</p>
+               <p>As firſt being to remove a plea in a replevin by plaint, to ſhew that the defendant avow<g ref="char:EOLhyphen"/>eth for damage feſant, and the Plaintiff doth juſtifie for com<g ref="char:EOLhyphen"/>mon of paſture, which is a plea touching freehold, and there<g ref="char:EOLhyphen"/>fore ſhould not be without writ. Or that he before whom the writ depends is a favorer of him that is of the other ſide.</p>
+               <p>Secondly, if any officer of the Court proceed after the remo<g ref="char:EOLhyphen"/>veall, he may be puniſhed for it in the Court from whence the writ to remove it came, for the ſuit in Law is now at an end in the inferior Court.</p>
+               <p>Thirdly, and after it is once ſent away, it can never be ſent back again, but muſt be tried in the Court into which it is ſent.</p>
+               <pb n="67" facs="tcp:46282:39"/>
+               <p> Fourthly, a ſuit is ſometimes removed out of this Court into
+<note place="margin">Falſe judge<g ref="char:EOLhyphen"/>ment.</note> a higher Court by a writ of falſe judgement.</p>
+               <p>And this writ is defined to be where an erronious judgement is given in any inferior Court, that is not a Court of record; as County, Hundred, or Court Ba<g ref="char:EOLhyphen"/>ron, then the partie grieved by the judgement may have this writ, and remove the whole Proces of the ſuit into the com<g ref="char:EOLhyphen"/>mon pleas; and there it ſhall be examined, and if it be found, the judgement ſhall be rever<g ref="char:EOLhyphen"/>ſed, and the Suitors or Judges <note place="margin">Jurors amerced.</note> of the Court that gave the judgement, amerced.</p>
+            </div>
+            <div n="15" type="section">
+               <pb n="68" facs="tcp:46282:40"/>
+               <head>Sect. XV. <hi>Of the Povver and duty of the officers of the Court.</hi>
+               </head>
+               <p>AS touching the power and duty of the officers and thoſe that act under this Court, theſe things are to be known.</p>
+               <p>Firſt, the Sheriff may, if he will, appoint ſpeciall Bailiffs that is, others beſides the com<g ref="char:EOLhyphen"/>mon Bailiffs to execute the pro<g ref="char:EOLhyphen"/>ceſſe of the Court.</p>
+               <p>Secondly, ſome ſay a war<g ref="char:EOLhyphen"/>rant from the Court by word may be good in theſe caſes, but it is not ſafe to truſt to ſuch a warrant, but to have it in writing.</p>
+               <p>Thirdly, the officers that
+<pb n="69" facs="tcp:46282:40"/> have any precept to execute, muſt do it with all care, and when done or not done, give an account and make a return of it, eſpecially if they take goods in execution; otherwiſe it is dangerous; for perhaps by the not return, the Act of the of<g ref="char:EOLhyphen"/>ficer may become unlawfull.</p>
+               <p>Fourthly, in taking of goods they muſt be reaſonable.</p>
+               <p>Fiftly, they may enter into a cloſe, or into any houſe of any other mans (the door being o<g ref="char:EOLhyphen"/>pen) to take the goods of any man there upon any pre<g ref="char:EOLhyphen"/>cept.</p>
+               <p>Sixthly, they may take the goods of any man in any place within the County, in another mans houſe or ground as well as in his own.</p>
+               <p>Seventhly, they are to take
+<pb n="70" facs="tcp:46282:41"/> upon execution ſo much of the goods as will ſatisfie the execu<g ref="char:EOLhyphen"/>tion, and bring them into the next Court where they muſt be priſed.</p>
+               <p>Eighthly, they are not to proceed in any caſe after it is re<g ref="char:EOLhyphen"/>moved into another Court.</p>
+               <p>Ninthly, if the Sheriff or any of his officers ſhall procure o<g ref="char:EOLhyphen"/>thers to commence ſuits againſt any perſon, and ſhall cauſe them to reſort to this Court. The par<g ref="char:EOLhyphen"/>ty attached upon any ſuch ſuit may replieve his diſtreſſe ſo ta<g ref="char:EOLhyphen"/>ken, and remove the ſuit before
+<note place="margin">Remove.</note> the Juſtices, &amp;c. Before whom if the Sheriff be convicted of ſuch procurement, he ſhall be amerced grievouſly to the Lord Protector, and ſhall anſwer to <note place="margin">Amerce<g ref="char:EOLhyphen"/>ment.</note> the partie grieved treble da<g ref="char:EOLhyphen"/>mages.</p>
+               <pb n="71" facs="tcp:46282:41"/>
+               <p> Tenthly, the Sheriff (his Shire Clerk, or deputies) ſhall <note place="margin">Eſtreates.</note> make no eſtreats to leavy the ſaid Sheriffs amercements (or Shire amercements untill two Juſtices of the peace (one of the Quorum) have had the over<g ref="char:EOLhyphen"/>ſight of their Books, and that the eſtreats be indented be<g ref="char:EOLhyphen"/>tween the Juſtices of the Peace and the Sheriff.</p>
+               <p>Eleventhly, the Officers, that leavie theſe eſtreats, ought to be ſworn before the Iuſtices that they will leavie no more then is upon the eſtreats.</p>
+            </div>
+            <div n="16" type="section">
+               <pb n="72" facs="tcp:46282:42"/>
+               <head>Sect. XVI. <hi>Of the Fees of this Court.</hi>
+               </head>
+               <p>THe Fees of this Court are <note place="margin">The Fees.</note> ſuch as time out of mind have been uſed to be paid and received i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Court. And theſe happily are in ſome places more, in ſome places leſſe. But in ſome of theſe Courts where they are reaſonable, they are as followeth.</p>
+               <list>
+                  <head>A Table of all ſuch Fees as are due and payable in the County Court.</head>
+                  <item>Fees due to the Court.
+<table>
+                        <row>
+                           <cell>For every judgement</cell>
+                           <cell>iiij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <pb n="73" facs="tcp:46282:42"/>For every Attachment fugitive</cell>
+                           <cell>ij<hi rend="sup">s</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For a judgement on a ju<g ref="char:EOLhyphen"/>ſticies</cell>
+                           <cell>i<hi rend="sup">s</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>Fees due to the Stevvard.
+<table>
+                        <row>
+                           <cell>For entring of an Action and warrant for the ſummons</cell>
+                           <cell>iiij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For an ordinary Attach<g ref="char:EOLhyphen"/>ment</cell>
+                           <cell>vj<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For an ordinary diſtrin<g ref="char:EOLhyphen"/>gas</cell>
+                           <cell>vj<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For filing of a Declara<g ref="char:EOLhyphen"/>tion</cell>
+                           <cell>iiij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For filing a Declaration on a Replevin</cell>
+                           <cell>xij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For an aparance</cell>
+                           <cell>iiij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <pb n="74" facs="tcp:46282:43"/>For every plea</cell>
+                           <cell>iiij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For every rule or order of Court</cell>
+                           <cell>iiij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For a venirefacias</cell>
+                           <cell>ij<hi rend="sup">s</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For a warrant for witneſ<g ref="char:EOLhyphen"/>ſes for every name</cell>
+                           <cell>vj<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>For every witneſſe ſworn</cell>
+                           <cell>ij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for every judgement</cell>
+                           <cell>iiij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for every levari facias or execution</cell>
+                           <cell>xij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for a copy of the Decla<g ref="char:EOLhyphen"/>ration</cell>
+                           <cell>iiij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for allowance of a juſti<g ref="char:EOLhyphen"/>cies</cell>
+                           <cell>ij<hi rend="sup">s</hi> vj<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for every warrant upon it</cell>
+                           <cell>ij<hi rend="sup">s</hi> vi<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for every Attachment fu<g ref="char:EOLhyphen"/>gitive
+<pb n="75" facs="tcp:46282:43"/> if it be againſt one onely</cell>
+                           <cell>ij<hi rend="sup">s</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>If more then one at one mans ſuit, then for the firſt defendant</cell>
+                           <cell>ij<hi rend="sup">s</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>And for all the reſt of the defendants xij<hi rend="sup">d</hi> a piece.</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>for allowance of a recor<g ref="char:EOLhyphen"/>dare, &amp;c.</cell>
+                           <cell>ij<hi rend="sup">s</hi> vj<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for retorning of it</cell>
+                           <cell>ij<hi rend="sup">s</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for a retraxit before judgement</cell>
+                           <cell>iiij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for ſearch for any old Action</cell>
+                           <cell>iiij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>Fees due to the Attorneys.
+<table>
+                        <row>
+                           <cell>For a retayning fee by the Plaintiff</cell>
+                           <cell>xij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <pb n="76" facs="tcp:46282:44"/>for drawing of a Declara<g ref="char:EOLhyphen"/>tion</cell>
+                           <cell>xiiij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for appearing for the de<g ref="char:EOLhyphen"/>fendant</cell>
+                           <cell>xij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>The ordinary fee upon a Iuſticies</cell>
+                           <cell>iij<hi rend="sup">s</hi> 4<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>The fee upon a replevin</cell>
+                           <cell>iij<hi rend="sup">s</hi> 4<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>Fees due to the Bayliff.
+<table>
+                        <row>
+                           <cell>For every ordinary ſummons</cell>
+                           <cell>vj<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for executing an ordinary Attachment</cell>
+                           <cell>vj<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for executing an ordina<g ref="char:EOLhyphen"/>ry diſtringas</cell>
+                           <cell>vj<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for ſummons upon a ju<g ref="char:EOLhyphen"/>ſticies</cell>
+                           <cell>ij<hi rend="sup">s</hi> vj<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <pb n="77" facs="tcp:46282:44"/>for an Attachment upon a juſticies</cell>
+                           <cell>ij<hi rend="sup">s</hi> vj<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for executing of a di<g ref="char:EOLhyphen"/>ſtringas upon a juſticies</cell>
+                           <cell>ij<hi rend="sup">•</hi> vj<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for every judgement</cell>
+                           <cell>iiij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for executing of an At<g ref="char:EOLhyphen"/>tachment fugitive</cell>
+                           <cell>ij<hi rend="sup">s</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for doing execution up<g ref="char:EOLhyphen"/>on the levari facias,</cell>
+                           <cell>xij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for the warrant, and j<hi rend="sup">d</hi> in the ſhilling for all the mony that is recovered and levied.</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>for ſummoning a Iury to to try a cauſe</cell>
+                           <cell>ij<hi rend="sup">s</hi> vj<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>To every witneſſe ſworn
+<pb n="78" facs="tcp:46282:45"/> for his charges</cell>
+                           <cell>xij<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>To a Iury that give a ver<g ref="char:EOLhyphen"/>dict, or are ſworn in a cauſe for their atten<g ref="char:EOLhyphen"/>dance.</cell>
+                           <cell>iiij<hi rend="sup">s</hi>.</cell>
+                        </row>
+                     </table>
+                  </item>
+               </list>
+            </div>
+            <div n="17" type="section">
+               <head>Sect. XVII. <hi>Certain Rules neceſſary for a County Court.</hi>
+               </head>
+               <p>ANd now having ſhewed what the Law is as touch<g ref="char:EOLhyphen"/>ing theſe Courts, if the Juſtices of the Peace, Lawyers, and o<g ref="char:EOLhyphen"/>thers of the moſt ſufficient Free<g ref="char:EOLhyphen"/>holders of the County, ſhall out of their zeal for the good of their Country meet together and agree upon a Courſe for the better regulating of this Court, and uſually ſit in Court to ſee
+<pb n="79" facs="tcp:46282:45"/> the Laws therein obſerved, they ſhall do a good work that may bring much eaſe to their Countries. And herein we do (under correction) conceive it may much help hereunto to ſet down and obſerve ſome ſuch like rules as theſe.</p>
+               <p>Firſt; that ſuch a number of the moſt ſufficient Freeholders do appear every Court, or be content to pay ſuch an Amer<g ref="char:EOLhyphen"/>cement.</p>
+               <p>Secondly, that they ſet down what number of attorneys; and who ſhall practice in the Court.</p>
+               <p>Thirdly, that theſe attor<g ref="char:EOLhyphen"/>neys, and all the officers that do practice, ſhall agree to, and ob<g ref="char:EOLhyphen"/>ſerve the rules for practice ſet down, and take no advantage by error; nor remove of ſuits or
+<pb n="80" facs="tcp:46282:46"/> otherwiſe without conſent of the Court for any thing done according to theſe rules: and that they be content with the Fees ſet down.</p>
+               <p>Fourthly, that they agree up<g ref="char:EOLhyphen"/>on a Method of ſhort Declara<g ref="char:EOLhyphen"/>tions, pleading the Generall iſ<g ref="char:EOLhyphen"/>ſues. Amendment of Declara<g ref="char:EOLhyphen"/>tions miſtaken before anſwer, and entring continuances after<g ref="char:EOLhyphen"/>wards, when omitted by the Clerk of the Court and the like, to make the ſuits there depend<g ref="char:EOLhyphen"/>ing ſhort and cheap. Theſe things will help much. And thus wee have done with the County Court, and now come to the Hundred Court.</p>
+            </div>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="81" facs="tcp:46282:46"/>
+            <head>CHAP. II. <hi>Of the Hundred Court.</hi>
+            </head>
+            <p>THe Hundred Court is not a Court of Record, but de<g ref="char:EOLhyphen"/>rived out of the County Court and is of the ſame nature within the Hundred, as the o<g ref="char:EOLhyphen"/>ther is within the Shire; in this Court alſo the Freeholders fal<g ref="char:EOLhyphen"/>led free Suitors are the Judges; and the Steward their Clark. And the ſtile of this Court is thus. The Hundred of W. in the Margent and then.</p>
+            <p>The Court of A. B. Knight of his Hundred of W. in the County of C. Held the firſt day of May one thouſand ſix
+<pb n="82" facs="tcp:46282:47"/> hundred fifty five before W. S. Steward there.</p>
+            <div n="1" type="section">
+               <head>Sect. I. <hi>Of the nature of this Court. the time and place for the keeping of it.</hi>
+               </head>
+               <p>THis Hundred Court is no Court of Record, but a kind of Court Barron, and of the ſame nature with the Coun<g ref="char:EOLhyphen"/>ty Court; out of which it was firſt derived, and ſet up, for the eaſe of the people; and there<g ref="char:EOLhyphen"/>fore the Courſe and rules of proceeding in, and all the mat<g ref="char:EOLhyphen"/>ters relating to this Court, are much like to thoſe in, and re<g ref="char:EOLhyphen"/>lating to that Court. And for that theſe things are to be known.</p>
+               <pb n="83" facs="tcp:46282:47"/>
+               <p> Firſt, that this Court may be kept in any place within the Hundred, and it muſt be kept in ſome place within the Hun<g ref="char:EOLhyphen"/>dred.</p>
+               <p>Secondly, it may be, and is uſually kept once every three weeks, upon a day of the week certain; which may (being be<g ref="char:EOLhyphen"/>gun) be adjurned to be ended on another day of the week. And perhaps this day may be changed, or if the Court be kept on another day it may be good enough. But the ſafe way is to keep it as time out of mind it hath been kept and not to al<g ref="char:EOLhyphen"/>ter it.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="84" facs="tcp:46282:48"/>
+               <head>Sect. II. <hi>Of the Iudges of the Court.</hi>
+               </head>
+               <p>THe Iudges of this Court are the Freeholders, called Free-ſuitors, which we con<g ref="char:EOLhyphen"/>ceive to be all the Freeholders of Land within, and dwelling within the Hundred. But in ſome Hundreds ſome certain Freeholders of the Hundred on<g ref="char:EOLhyphen"/>ly are the Iudges; &amp; the ſervice ſeems to be appropriate to their Land only: But we conceive that this doth not exempt the reſt of the Freeholders of the Hundred, but that they may be charged. But it is ſafeſt to keep the Court by thoſe that are bound to the ſervice by their Land, or to have two of them
+<pb n="85" facs="tcp:46282:48"/> preſent and if any of theſe Free-ſuitors make default they may be amerced, as in the County Court. And the amercement af<g ref="char:EOLhyphen"/>feared and extreated, as there; but that in this caſe there is nothing to be done with, or by the Iuſtices of the Peace.</p>
+               <div type="subsection">
+                  <head>Attorneys and Pledges.</head>
+                  <p>Attorneys may be made and uſed in this Court as in the <note place="margin">Attor<g ref="char:EOLhyphen"/>neys.</note> County Court, and for Pledges, this uſually is the Courſe, that <note place="margin">Pledges.</note> where the Plaintiff doth live out of the Hundred, he is to find pledges of ſome ſufficient men within the Hundred for him; otherwiſe the defendant is not bound to anſwer. But what remedy to have againſt the pledges, If judgement go againſt
+<pb n="86" facs="tcp:46282:49"/> the Plaintiff, we can<g ref="char:EOLhyphen"/>not tell you, except an Action of the caſe lye, or ſome cuſtome have been there time out of mind to charge them ſome o<g ref="char:EOLhyphen"/>ther way.</p>
+               </div>
+            </div>
+            <div n="3" type="section">
+               <head>Sect. III. <hi>Of the povver and proceed<g ref="char:EOLhyphen"/>ings in this Court in Ge<g ref="char:EOLhyphen"/>nerall to the end of the ſuit.</hi>
+               </head>
+               <p>THe power and proceeding of this Court in Generall is much like to the power and proceedings of the County Court, ſave only in the caſe of a <hi>Iuſticies:</hi> for no <hi>Iusticies</hi> doth lye to the Iudges of this Court. And that this is for the hundred
+<pb n="87" facs="tcp:46282:49"/> only, and that is for the whole County. And that in moſt of theſe Courts there is no diſtreſs uſed to bring the party to ap<g ref="char:EOLhyphen"/>pear but a ſummons and attach<g ref="char:EOLhyphen"/>ment only. And as to amerce<g ref="char:EOLhyphen"/>ments <note place="margin">Amerce<g ref="char:EOLhyphen"/>ments and Eſtreats.</note> and eſtreats thereof the rules of the one are all agreable to the other, ſave only that the Iuſtices of the Peace have nothing to do with the eſtreats of theſe amercements. And theſe amercements go to the Lord of the Leet, not to the Steward.</p>
+               <p>For coſts of ſuit both Courts agree in all things. And for re<g ref="char:EOLhyphen"/>moving of ſuits the Courts are much alike: Save only that to remove a ſuit of this Court there is another writ called an <hi>Accedas ad Curiam;</hi> which is a <note place="margin">Accedas ad cu<g ref="char:EOLhyphen"/>riam.</note> writ out of the upper Bench,
+<pb n="88" facs="tcp:46282:50"/> or common pleas, directed to the Sheriff commanding him to go to ſuch a Court of ſome Lord or franchiſe; as County Court, or court Barron, where a Plaint is ſued for taking of Beaſts, as a diſtreſſe or ſome falſe judgement is ſuppoſed to be given in any ſuit; which hath been in ſuch a Court, which is not a Court of record, and that he do there make record of the ſame ſuit in the preſence of the Suitors of the ſame Court, and four Knights of the County; and certifie it into the Lord Protectors Court, at the day limited in the writ; and this cannot be had without ſhew<g ref="char:EOLhyphen"/>ing of ſome cauſe; and the cau<g ref="char:EOLhyphen"/>ſes to remove theſe ſuits are when a Freehold is in queſtion there, or ſome forrain plea
+<pb n="89" facs="tcp:46282:50"/> is pleaded not triable there. Or the like.</p>
+               <p>And for Officers power and duty in theſe Courts it is alto<g ref="char:EOLhyphen"/>gether the ſame with the Of<g ref="char:EOLhyphen"/>ficers of the County Court; ſave only that which doth concern the entring of ſuits in other mens names, and without their privity.</p>
+               <p>And alſo ſave only in what doth referre to their relation to the Iuſtices of the Peace of the County, as to their eſtreats. See for theſe things Chap. 1. Sect. 12. 13. 14. 15. and for the Fees of this Court the ſame is to be ſaid as in the former Court; their Fees differ, and are by Law what they have been time out of mind. But ſome of theſe Courts wherein the fees are rea<g ref="char:EOLhyphen"/>ſonable are as followeth.</p>
+               <list>
+                  <pb n="90" facs="tcp:46282:51"/>
+                  <item>The Stevvards fees.
+<table>
+                        <row>
+                           <cell>For entring every Action</cell>
+                           <cell>2<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Every order entred</cell>
+                           <cell>2<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Entring Declaration</cell>
+                           <cell>2<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>If large then more.</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>Entring every plea or an<g ref="char:EOLhyphen"/>ſwer</cell>
+                           <cell>2<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Every Eſſoyne</cell>
+                           <cell>2<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Every Proceſs</cell>
+                           <cell>4<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Every continuance</cell>
+                           <cell>2<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Every nonſuit and de<g ref="char:EOLhyphen"/>traxit</cell>
+                           <cell>4<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Entring the Judgement</cell>
+                           <cell>2<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Satisfaction acknowled<g ref="char:EOLhyphen"/>ged</cell>
+                           <cell>2<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <pb n="91" facs="tcp:46282:51"/>Every wager of Law and entry</cell>
+                           <cell>2<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Warrants for witneſſes and ſummoning Iuries</cell>
+                           <cell>4<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for removing and certi<g ref="char:EOLhyphen"/>fying a cauſe</cell>
+                           <cell>6<hi rend="sup">s</hi> 8<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>The Baylifs fees.
+<table>
+                        <row>
+                           <cell>for Summons &amp; entrance</cell>
+                           <cell>7<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for executing every Pro<g ref="char:EOLhyphen"/>ceſs</cell>
+                           <cell>4<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Upon Iudgement for e<g ref="char:EOLhyphen"/>very ſhilling</cell>
+                           <cell>1<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for warning of the Iury</cell>
+                           <cell>1<hi rend="sup">s</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for warning of witneſſes on a warrant</cell>
+                           <cell>4<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <pb n="92" facs="tcp:46282:52"/>for every oath</cell>
+                           <cell>2<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>The Attorneys fees.
+<table>
+                        <row>
+                           <cell>for every cauſe at hearing</cell>
+                           <cell>1<hi rend="sup">s</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for the Declaration</cell>
+                           <cell>4<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>for every Court the cauſe dependeth after he is re<g ref="char:EOLhyphen"/>tayned</cell>
+                           <cell>4<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+                  <item>Other Officers fees.
+<table>
+                        <row>
+                           <cell>for the execution of eve<g ref="char:EOLhyphen"/>ry Proceſs</cell>
+                           <cell>4<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </item>
+               </list>
+            </div>
+         </div>
+         <div n="3" type="chapter">
+            <head>CHAP. III. <hi>Of a Court Barron.</hi>
+            </head>
+            <p>THe Court Barron is no <note place="margin">What a Court Barron is.</note> Court of record, but a
+<pb n="93" facs="tcp:46282:52"/> Court that every Lord of a Mannor, (which anciently were Barrons) hath within his Mannor, as inſeparably incident to his Mannor; which Court is ſaid to be double; the one, cal<g ref="char:EOLhyphen"/>led the coppyholders Court, for the triall of the titles of their land, for the taking and paſſing of Eſtates, Surrenders, Admit<g ref="char:EOLhyphen"/>tances and graunts, and herein the Lord or his Steward is Judge. And the other is called the Freeholders Court, which is only for the tryall of A<g ref="char:EOLhyphen"/>ctions wherein the Freehol<g ref="char:EOLhyphen"/>ders are Iudges. The ſtile of this Court is after this manner. The manner of Dale in the margent.</p>
+            <p>The Court Barron of I. S. Knight of his Mannor
+<pb n="94" facs="tcp:46282:53"/> aforeſaid held the firſt day of May 1655. before W. S. Steward there.</p>
+            <div n="1" type="section">
+               <head>Sect. I. <hi>Of the beginning and uſe of this Court.</hi>
+               </head>
+               <p>THis Court was firſt inſtitu<g ref="char:EOLhyphen"/>ted for the eaſe of the Te<g ref="char:EOLhyphen"/>nants <note place="margin">The na<g ref="char:EOLhyphen"/>ture of it.</note> of the Mannor, and end<g ref="char:EOLhyphen"/>ing of ſuits there under forty ſhillings. That it might be done at home, as it were at their own doors. And it is much of the nature of the two former Courts.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="95" facs="tcp:46282:53" rendition="simple:additions"/>
+               <head>Sect. II. <hi>Of the time and place for the keeping of this Court and the Iudges therein.</hi>
+               </head>
+               <p>THe Iudges here are the Freeholders, that is, ſuch Tenants as have ancient eſtates of Inheritance in any Lands held of the Mannor; And of theſe there muſt be two at the leaſt. And therefore when once the Mannor is gone, this Court is gone alſo; or if the Mannor continue, and there be but one Freeholder, the Court is gone; nor will new Freeholders (as it ſeems) made with in the time of memory ſerve; and therefore coppyholders or leaſeholders.
+<pb n="96" facs="tcp:46282:54"/> That by the Inheritance of the Lands, nor of any that buy of the Lord a part of his demeſnes, theſe will not be Iudges of the Court.</p>
+               <p>The place of keeping of theſe Courts muſt be ſomewhere within the Mannor. And it may not be kept without the Man<g ref="char:EOLhyphen"/>nor, if it be, all that is done at the Court is void; and <hi>Coram non judice.</hi>
+               </p>
+               <p>And yet perhaps where a man hath two or three Mannors together; and time out of mind the Court hath been kept in one Mannor for all the reſt of the Mannors, there happily it may be good for all. And the time of keeping of this court is once e<g ref="char:EOLhyphen"/>very three weeks &amp; not oftener, but more ſeldome as the Lord of the Mannor ſhall pleaſe.</p>
+            </div>
+            <div n="3" type="section">
+               <pb n="97" facs="tcp:46282:54" rendition="simple:additions"/>
+               <head>Sect. III. <hi>Of the Povver and proceed<g ref="char:EOLhyphen"/>ings in this Court.</hi>
+               </head>
+               <p>THe power of this Court, where it doth continue, is much as the power of the hun<g ref="char:EOLhyphen"/>dred Court: and the Proceſs, it holdeth plea: under forty ſhil<g ref="char:EOLhyphen"/>lings alſo much like unto it.</p>
+               <p>And as for coſts of the ſuit, the power of the Officers, amer<g ref="char:EOLhyphen"/>cements, tryall, and removall of ſuits, the courſe in this Court is much like to the courſe of the Hundred Courts; ſave only that here no Tryals are by Iury, but all by wager of Law and proof of witneſſes.</p>
+               <p>For all this therefore ſee
+<pb n="98" facs="tcp:46282:55"/> Chapt. 1. Sect. 12. 13. 14. 15. &amp;c. And for the fees of this Court the ſame is to be ſaid as in the former Court; their fees differ, and are by Law what they have been time out of mind: but ſome of theſe Courts wherein the fees are reaſonable are as the fees are in the Hun<g ref="char:EOLhyphen"/>dred Court.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:46282:55"/>
+            <head>The TABLE.</head>
+            <list>
+               <item>ACcedas ad curiam chap. 2. ſect. 3.</item>
+               <item>Affering chap. 1. ſect. 4. 13.</item>
+               <item>Amercements chap. 1. ſect. 13. chap. 2. chap. 3. chap. 1. ſect. 9. 15.</item>
+               <item>Amendment chap. 1. ſect. 10.</item>
+               <item>Attachment chap. 1. ſect. 9. chap. 2. chap. 3.</item>
+               <item>Attorney chap. 1. ſect. 7. chap. 2. chap. 3.</item>
+               <item>Avowrie chap. 1. ſect. 11.</item>
+               <item>Challenge chap. 1. ſect. 10.</item>
+               <item>Confeſſion chap. 1. ſect. 10.</item>
+               <item>Continuances chap. 1. ſect. 10.</item>
+               <item>Coſts chap. 1. ſect. 10. 12.</item>
+               <item>Court.</item>
+               <item>The County Court. chap. 1.</item>
+               <item>The Hundred Court chap. 2.</item>
+               <item>The Court Barron chap. 3.</item>
+               <item>Declaration chap. 1. ſect. 10.</item>
+               <item>Demurrer chap. 1. ſect. 8. 10.</item>
+               <item>Diſtreſſe chap. 1. ſect. 9.</item>
+               <pb facs="tcp:46282:56"/>
+               <item> Eſtreats chap. 1. ſect. 13.</item>
+               <item>Eſſoyne chap. 1. ſect. 10.</item>
+               <item>Execution chap. 1. ſect. 9. chap. 2. chap. 3.</item>
+               <item>Falſe Iudgement chap. 1. ſect. 10. 4.</item>
+               <item>Fees chap. 1. ſect. 16. chap. 2. chap. 3.</item>
+               <item>Gager de deliverance chap. 1. ſect. 11.</item>
+               <item>Imparlance chap. 1. ſect. 10.</item>
+               <item>Iſſue chap. 1. ſect. 10.</item>
+               <item>Iudgement chap. 1. ſect. 10.</item>
+               <item>Iuſticies chap. 1. ſect. 6. 4.</item>
+               <item>Levari facias chap. 1. ſect. 9.</item>
+               <item>Nonſuit chap. 1. ſect. 10. chap. 2. 3.</item>
+               <item>Officers chap. 1. ſect. 9. 13. chap. 2. chap. 3.</item>
+               <item>Playnt chap. 1. ſect. 8. chap. 2. chap. 3.</item>
+               <item>Pleading chap. 1. ſect. 10.</item>
+               <item>Pledges chap. 1. ſect. 7. chap. 2.</item>
+               <item>Proceſs chap. 1. ſect. 9. chap. 2. chap. 3.</item>
+               <item>Prohibition chap. 1. ſect. 8.</item>
+               <item>Proprietate probanda chap. 1. ſect. 11.</item>
+               <item>Recaption chap. 1. 11.</item>
+               <pb facs="tcp:46282:56" rendition="simple:additions"/>
+               <item> Remove of a cauſe chap. 1. ſect. 6. 8. 16.</item>
+               <item>Replevin chap. 1. ſect. 11. 9.</item>
+               <item>Recordare chap. 1. ſect. 15.</item>
+               <item>Retorne habendo chap. 1. ſect. 11.</item>
+               <item>Return Irrepreviſable chap. 1. ſect. 11.</item>
+               <item>Second Deliverance chap. 1. ſect. 11.</item>
+               <item>Summons chap. 1. ſect. 9. chap. 2.</item>
+               <item>Tryall chap. 1. ſect. 10. chap. 2. 3.</item>
+               <item>Wager of Law chap. 1. ſect. 10. chap. 2. chap. 3.</item>
+               <item>Withernam chap. 1. ſect. 11.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
